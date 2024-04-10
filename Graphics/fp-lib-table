@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "EuroPowerBoard - Graphics")(type KiCad)(uri "$(KIPRJMOD)/EuroPowerBoard - Graphics.pretty")(options "")(descr ""))
+)
