@@ -8,6 +8,10 @@ This is a busboard for Eurorack synths but with a modification for my own builds
 Version 1 supports 10-pin IDC/Eurorack power connectors.
 Version 2 supports 16-pin IDC and 4-pin JST power connectors.
 
+Learn more about it on my website: https://benjiaomodular.com/post/2024-04-09-europowerboard-v2/
+
+Project was sponsored by PCBWay. Order directly from [their website](https://www.pcbway.com/project/shareproject/EuroPowerBoard_v2_db65723e.html). 
+
 # License
 
 This work is licensed under a
